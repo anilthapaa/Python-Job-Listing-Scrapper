@@ -2,6 +2,8 @@
 
 A beginner Python web scraper that collects job listings from the [Fake Python Jobs](https://realpython.github.io/fake-jobs/) website and saves them to a CSV file.
 
+🔗 **GitHub:** https://github.com/anilthapaa/Python-Job-Listing-Scrapper 
+
 ## What It Does
 
 - Fetches the Fake Python Jobs webpage
